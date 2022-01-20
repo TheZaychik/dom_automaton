@@ -481,10 +481,10 @@ fabric.properties
 #
 # Recommended template: Node.gitignore
 
-# TODO: where does this rule come from?
+# where does this rule come from?
 docs/_book
 
-# TODO: where does this rule come from?
+# where does this rule come from?
 test/
 
 ### Vuejs ###
@@ -496,3 +496,5 @@ yarn-error.log
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,macos,vuejs,nuxtjs,vue,django
 frontend/.editorconfig
+
+backend/backend/settings/dev.py
